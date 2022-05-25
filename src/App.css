@@ -1,0 +1,56 @@
+
+.App{
+margin-top: auto;
+}
+.progress{
+    /* position: relative; */
+    margin-top: auto;
+
+
+}
+.text{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 240px;
+    font-weight: bold;
+    font-size: large;
+  
+}
+.content{
+    position: relative;
+    background: white;
+    color: black;
+    width: 70%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.next{
+    display: flex;
+    background: silver;
+    width: 60px;
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 940px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+}
+.prev{
+    display: flex;
+    background: silver;
+    width: 60px;
+    position: absolute;
+    margin-top: 450px;
+    margin-right: 900px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+}
